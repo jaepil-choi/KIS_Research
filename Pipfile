@@ -9,8 +9,8 @@ verify_ssl = true
 jupyterlab = "*"
 pandas = "*"
 matplotlib = "*"
-quantopian = "*"
 zipline = "*"
+beautifulsoup4 = "*"
 
 [requires]
 python_version = "3.6"
