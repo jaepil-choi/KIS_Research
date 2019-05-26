@@ -12,6 +12,8 @@ matplotlib = "*"
 zipline = "*"
 xlrd = "*"
 openpyxl = "*"
+seaborn = "*"
+scipy = "*"
 
 [requires]
 python_version = "3.6"
