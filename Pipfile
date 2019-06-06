@@ -14,6 +14,10 @@ xlrd = "*"
 openpyxl = "*"
 seaborn = "*"
 scipy = "*"
+statsmodels = {editable = true,git = "https://github.com/statsmodels/statsmodels"}
+scikit-learn = "*"
+update = "*"
+cython = "*"
 
 [requires]
 python_version = "3.6"
