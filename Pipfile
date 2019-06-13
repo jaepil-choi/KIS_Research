@@ -19,6 +19,7 @@ scikit-learn = "*"
 update = "*"
 cython = "*"
 patsy = "*"
+html5lib = "*"
 
 [requires]
 python_version = "3.6"
