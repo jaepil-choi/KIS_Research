@@ -20,6 +20,8 @@ update = "*"
 cython = "*"
 patsy = "*"
 html5lib = "*"
+pycurl = "*"
+numpy = "*"
 
 [requires]
 python_version = "3.6"
